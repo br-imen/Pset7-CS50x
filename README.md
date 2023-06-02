@@ -84,3 +84,12 @@
     - Once you solve the mystery, complete each of the lines in answers.txt by filling in the name of the thief, the city that the thief escaped to, and the name of the thief’s accomplice who helped them escape town. (Be sure not to change any of the existing text in the file or to add any other lines to the file!)
 
     - Ultimately, you should submit both your log.sql and answers.txt files.
+
+
+- Favorites folder:
+to become familar with sql
+
+- prophecy : 
+“Refactor” a SQL database to eliminate redundancies
+Use SELECT, CREATE, and INSERT statements to reorganize data
+Write Python to load new SQL tables
