@@ -1,0 +1,12 @@
+The THIEF is: Bruce
+|   id   | name  |  phone_number  | passport_number | license_plate |
++--------+-------+----------------+-----------------+---------------+
+| 686048 | Bruce | (367) 555-5533 | 5773159633      | 94KL13X
+
+The city the thief ESCAPED TO: New York City
+
+The ACCOMPLICE is: Robin
++--------+-------+----------------+-----------------+---------------+
+|   id   | name  |  phone_number  | passport_number | license_plate |
++--------+-------+----------------+-----------------+---------------+
+| 864400 | Robin | (375) 555-8161 |                 | 4V16VO0
